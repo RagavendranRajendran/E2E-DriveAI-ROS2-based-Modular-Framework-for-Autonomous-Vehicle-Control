@@ -1,0 +1,7 @@
+{
+    "req_in_freq": 5,
+    "req_op_freq": 5,
+    "observation_window": 5,
+    "control_window": 3,
+    "masterinfo_path": "/home/t14-3/Documents/readtest/masterinfo.csv"
+}
